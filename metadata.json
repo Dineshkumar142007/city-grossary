@@ -1,0 +1,6 @@
+{
+  "name": "Grocery Price Comparison - Store Price Finder",
+  "description": "Compare grocery prices across stores, search products, find the single cheapest retailer, and optimize shopping baskets with live REST API endpoints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
